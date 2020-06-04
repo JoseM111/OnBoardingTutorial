@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "AB8D3495247489E20039E4E0"
+               BuildableName = "OnBoardingTutorial.app"
+               BlueprintName = "OnBoardingTutorial"
+               ReferencedContainer = "container:OnBoardingTutorial.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "AB8D3495247489E20039E4E0"
+            BuildableName = "OnBoardingTutorial.app"
+            BlueprintName = "OnBoardingTutorial"
+            ReferencedContainer = "container:OnBoardingTutorial.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
